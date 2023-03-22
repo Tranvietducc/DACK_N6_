@@ -1,0 +1,209 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "fname": "Global",
+            "lname": "Admin",
+            "email": "admin@gmail.com",
+            "password": "123456"
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "name": "Laptop MSI",
+            "variants":
+            [{
+            "image":"file:///C:/Memory_Shop/Hinhanh/laptop-msi-modern-15-a11m-1024vn-14f8db7d-b7ee-4b30-babd-dd5c90aabc52.webp",
+            "name":"Laptop MSI Modern 14 C5M-030VN (Ryzen 5 5625U, Radeon Graphics, Ram 8GB DDR4, SSD 512GB, 14 Inch IPS FHD)",   
+            "type": "Thương hiệu: MSI",
+            "price":13490000
+            },
+            {
+            "image":"file:///C:/Memory_Shop/Hinhanh/laptop-msi-modern-14-c5m-030vn%20(1).webp",
+            "name":"Laptop MSI Modern 15 A11M-1023VN (i5-1155G7, Iris Xe Graphics, Ram 8GB DDR4, SSD 512GB, 15.6 Inch IPS FHD)",   
+            "type": "Thương hiệu: MSI",
+            "price":13990000
+            },
+            {
+            "image":"file:///C:/Memory_Shop/Hinhanh/laptop-gaming-msi-gf63-thin-11sc-664vn-4c774ec5-5574-404a-9176-52cf7a4c5372.webp",
+            "name":"Laptop Gaming MSI GF63 Thin 11SC-664VN (i5-11400H, GTX 1650 4GB, Ram 8GB DDR4, SSD 512GB, 15.6 Inch 144Hz FHD)",   
+            "type": "Thương hiệu: MSI",
+            "price":16490000
+            },
+            {
+            "image":"file:///C:/Memory_Shop/Hinhanh/laptop-gaming-msi-katana-gf66-12uck-699vn.webp",
+            "name":"Laptop Gaming MSI Katana GF66 12UCK-699VN (i5-12450H, RTX 3050 4GB, Ram 8GB DDR4, SSD 512GB, 15.6 Inch IPS 144Hz FHD)",   
+            "type": "Thương hiệu: MSI",
+            "price":21990000
+            }
+            ]
+
+            
+        },
+        {
+            "id": 2,
+            "name": "Mark book",
+            "variants":
+            [{
+            "image":"file:///C:/Memory_Shop/Hinhanh/macbook-air-m1-2020-silver-mgn93sa-a.webp",
+            "name":"Macbook Air M1 2020 Silver MGN93SA/A (Apple M1, 7-Cores GPU, Ram 8GB, SSD 256GB, 13.3 Inch IPS Retina)",   
+            "type": "Thương hiệu: Markbook",
+            "price":18990000
+            },
+            {
+            "image":"file:///C:/Memory_Shop/Hinhanh/macbook-air-m2-midnight-mly33sa-a.webp",
+            "name":"Macbook Air M2 Midnight MLY33SA/A (Apple M2, 8-Cores GPU, Ram 8GB, SSD 256GB, 13.6 Inch IPS Retina)",   
+            "type": "Thương hiệu: Markbook",
+            "price":13990000
+            },
+            {
+            "image":"file:///C:/Memory_Shop/Hinhanh/macbook-air-m2-silver-mlxy3sa-a-b0849c40-0ae2-4d27-9184-5415753e98f1.webp",
+            "name":"Macbook Air M2 Silver MLXY3SA/A (Apple M2, 8-Cores GPU, Ram 8GB, SSD 256GB, 13.6 Inch IPS Retina)",   
+            "type": "Thương hiệu: Markbook",
+            "price":26990000
+            },
+            {
+            "image":"file:///C:/Memory_Shop/Hinhanh/macbook-pro-13-inch-m2-space-gray-mneh3sa-a.webp",
+            "name":"Macbook Pro 13 Inch M2 Space Gray MNEH3SA/A (Apple M2, 10-Cores GPU, Ram 8GB, SSD 256GB, 13.3 Inch IPS Retina)",   
+            "type": "Thương hiệu: Markbook",
+            "price":29990000
+            }
+            ]
+
+            
+        },
+        {
+            "id": 3,
+            "name": "Laptop Acer",
+            "variants":
+            [{
+            "image":"file:///C:/Memory_Shop/Hinhanh/laptop-gaming-acer-aspire-7-a715-42g-r05g-24d8a340-9b91-470f-a113-a5f7e3f3a7ef.webp",
+            "name":"Laptop Gaming Acer Aspire 7 A715-42G-R05G/R6ZR NH.QAYSV.007 (Ryzen 5 5500U, GTX 1650 4GB, Ram 8GB DDR4, SSD 512GB, 15.6 Inch IPS 144Hz FHD)",   
+            "type": "Thương hiệu: Acer",
+            "price":16990000
+            },
+            {
+            "image":"file:///C:/Memory_Shop/Hinhanh/laptop-gaming-acer-nitro-5-an515-45-r6ev-99c43a29-51d2-4099-b134-9f35b735f41b.webp",
+            "name":"Laptop Gaming Acer Nitro 5 AN515-45-R6EV/R3SM NH.QBMSV.006 (Ryzen 5 5600H, GTX 1650 4GB, Ram 8GB DDR4, SSD 512GB, 15.6 Inch IPS 144Hz FHD)",   
+            "type": "Thương hiệu: Acer",
+            "price":17990000
+            },
+            {
+            "image":"file:///C:/Memory_Shop/Hinhanh/r8ga.webp",
+            "name":"Laptop Gaming Acer Aspire 7 A715-43G-R8GA NH.QHDSV.002 (Ryzen 5 5625U, RTX 3050 4GB, Ram 8GB DDR4, SSD 512GB, 15.6 Inch IPS 144Hz FHD)",   
+            "type": "Thương hiệu: Acer",
+            "price":18490000
+            },
+            {
+            "image":"file:///C:/Memory_Shop/Hinhanh/aeimageframe-27692778.webp",
+            "name":"Laptop Acer Swift 3 SF314-512-56QN NX.K0FSV.002 (i5-1240P EVO, Iris Xe Graphics, Ram 16GB DDR4, SSD 512GB, 14 Inch IPS QHD)",   
+            "type": "Thương hiệu: Acer",
+            "price":21990000
+            }
+            ]
+
+            
+        },
+        {
+            "id": 4,
+            "name": "Laptop Asus",
+            "variants":
+            [{
+            "image":"file:///C:/Memory_Shop/Hinhanh/laptop-asus-vivobook-x515ea-br2045w.webp",
+            "name":"Laptop Asus Vivobook X515EA-BR2045W (i3-1115G4, UHD, Ram 4GB DDR4, SSD 512GB, 15.6 Inch HD)",   
+            "type": "Thương hiệu: Asus",
+            "price":13490000
+            },
+            {
+            "image":"file:///C:/Memory_Shop/Hinhanh/laptop-asus-vivobook-15-x1502za-ej120w-002.webp",
+            "name":"Laptop Asus Vivobook 15 X1502ZA-EJ120W (i5-1240P, Iris Xe Graphics, Ram 8GB DDR4, SSD 512GB, 15.6 Inch IPS FHD)",   
+            "type": "Thương hiệu: Asus",
+            "price":13990000
+            },
+            {
+            "image":"file:///C:/Memory_Shop/Hinhanh/laptop-asus-vivobook-15x-oled-a1503za-l1150w.webp",
+            "name":"Laptop Asus Vivobook 15X OLED A1503ZA-L1150W (i3-1220P, UHD Graphics, Ram 8GB DDR4, SSD 256GB, 15.6 Inch OLED FHD)",   
+            "type": "Thương hiệu: Asus",
+            "price":15990000
+            },
+            {
+            "image":"file:///C:/Memory_Shop/Hinhanh/laptop-asus-vivobook-14-x1402za-ek084w-af80a290-52c3-46d0-91da-a9cfb89f409c.webp",
+            "name":"Laptop Asus Vivobook 14 X1402ZA-EK084W (i5-1240P, Iris Xe Graphics, Ram 8GB DDR4, SSD 256GB, 14 Inch IPS FHD)",   
+            "type": "Thương hiệu: Asus",
+            "price":15990000
+            }
+            ]
+
+            
+        },
+        {
+            "id": 5,
+            "name": "Laptop Dell",
+            "variants":
+            [{
+            "image":"file:///C:/Memory_Shop/Hinhanh/laptop-dell-inspiron-15-3520-n3520-i3u082w11blu.webp",
+            "name":"Laptop Dell Inspiron 15 3520 N3520-i3U082W11BLU (i3-1215U, UHD Graphics, Ram 8GB DDR4, SSD 256GB, 15.6 Inch FHD)",   
+            "type": "Thương hiệu: Dell",
+            "price":13690000
+            },
+            {
+            "image":"file:///C:/Memory_Shop/Hinhanh/laptop-dell-latitude-3420-l3420i5ssdfb.webp",
+            "name":"Laptop Dell Latitude 3420 L3420I5SSDFB (i5-1135G7, Iris Xe Graphics, Ram 8GB DDR4, SSD 256GB, 14 Inch FHD/Ubuntu/Đen)",   
+            "type": "Thương hiệu: Dell",
+            "price":17490000
+            },
+            {
+            "image":"file:///C:/Memory_Shop/Hinhanh/laptop-dell-latitude-3420-l3420i5ssdfb%20(1).webp",
+            "name":"Laptop Dell Latitude 3420 L3420I5SSDFB (i5-1135G7, Iris Xe Graphics, Ram 8GB DDR4, SSD 256GB, 14 Inch FHD/Ubuntu/Đen)",   
+            "type": "Thương hiệu: Dell",
+            "price":17490000
+            },
+            {
+            "image":"file:///C:/Memory_Shop/Hinhanh/laptop-dell-latitude-3520-70280543-01.webp",
+            "name":"Laptop Dell Latitude 3520 70280543 (i5-1135G7, Iris Xe Graphics, Ram 8GB DDR4, SSD 256GB, 15.6 Inch FHD)",   
+            "type": "Thương hiệu: Dell",
+            "price":17990000    
+            }
+
+            ]
+            
+            
+        },
+        {
+            "id": 6,
+            "name": "Laptop HP",
+            "variants":
+            [{
+            "image":"file:///C:/Memory_Shop/Hinhanh/laptop-hp-pavilion-14-dv2051tu-6k7g8pa-27e2c6d9-b069-4052-abd1-46f98c12b0b8.webp",
+            "name":"Laptop HP Pavilion 14-dv2051TU 6K7G8PA (i3-1215U, UHD Graphics, Ram 4GB DDR4, SSD 256GB, 14 Inch IPS FHD)",   
+            "type": "Thương hiệu: HP",
+            "price":12990000
+            },
+            {
+            "image":"file:///C:/Memory_Shop/Hinhanh/laptop-hp-pavilion-14-dv2036tu-6k772pa-358c9d2f-d774-4b8c-af3f-860373373cb3.webp",
+            "name":"Laptop HP Pavilion 14-dv2036TU 6K772PA (i5-1235U, Iris Xe Graphics, Ram 8GB DDR4, SSD 256GB, 14 Inch IPS FHD)",   
+            "type": "Thương hiệu: HP",
+            "price":16990000
+            },
+            {
+            "image":"file:///C:/Memory_Shop/Hinhanh/laptop-hp-pavilion-14-dv2035tu-6k771pa-8a9d6212-25c2-46fd-a07c-c8a2df152bec.webp",
+            "name":"Laptop HP Pavilion 14-dv2033TU 6K769PA (i5-1235U, Iris Xe Graphics, Ram 8GB DDR4, SSD 512GB, 14 Inch IPS FHD)",   
+            "type": "Thương hiệu: HP",
+            "price":17490000
+            },
+            {
+            "image":"file:///C:/Memory_Shop/Hinhanh/laptop-hp-pavilion-15-eg2085tu-7c0q7pa.webp",
+            "name":"Laptop HP Pavilion 15-eg2085TU 7C0Q7PA (i5-1240P, Iris Xe Graphics, Ram 8GB DDR4, SSD 256GB, 15.6 Inch IPS FHD)",   
+            "type": "Thương hiệu: HP",
+            "price":17890000    
+            }
+            
+            ]
+            
+            
+        }
+    ],
+    "cart": [],
+    "orders": []
+}
